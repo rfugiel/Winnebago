@@ -1,4 +1,4 @@
-print("Dan? More like Dave wannabe")
+print("Rad makes 0 dollars")
 
 
 def test():
