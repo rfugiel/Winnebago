@@ -1,4 +1,4 @@
-print("hello world this is Dan and he rocks")
+print("Rad makes 0 dollars")
 
 
 def test():
