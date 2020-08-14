@@ -1,4 +1,4 @@
-print("bye world dan sucks and more")
+print("Dan? More like Dave wannabe")
 
 
 def test():
