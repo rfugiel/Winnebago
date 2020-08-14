@@ -1,4 +1,4 @@
-print("hello world")
+print("hello world this is Rad")
 
 
 def test():
@@ -7,3 +7,5 @@ def test():
 		"Alpha": 1,
 		"Beta": 2,
 	}
+
+	print("some stuff")
