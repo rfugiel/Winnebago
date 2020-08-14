@@ -1,4 +1,4 @@
-print("bye world dan sucks and more")
+print("hello world this is Dan and he rocks")
 
 
 def test():
@@ -7,4 +7,5 @@ def test():
 		"Alpha": 1,
 		"Beta": 2,
 	}
-	print("more stuff")
+
+	print("some stuff")
